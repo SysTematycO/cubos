@@ -1,0 +1,536 @@
+﻿CREDITO|OCUPACION |PROFESION |SECT TAXIS|SECT TRANSP |TIPO DE EXP |TIEMPO ( MESES ) |QUIEN VA A MANEJAR 
+10071|Propietario de Taxi|||||120|
+10072|Rentista de Capital|||||0|
+10073|Conductor de Taxi|||||120|
+10074|Conductor de Taxi|CONSTRUCCION||||32|
+10075|Independiente Formal|CONSTRUCCION|SI|NO|no aplica|36|CONDUCTOR
+10077|Empleado|ALMACEN DE ROPA |NO|NO|no aplica|48|CONDUCTOR
+10084|Conductor de Taxi||SI|NO|no aplica|84|PROPIETARIO
+10086|Pensionado|CONSTRUCCION||||0|
+10088|Empleado|||||0|
+10089|Empleado||NO|NO|no aplica|0|CONDUCTOR
+10091|Conductor de Taxi||SI|NO|no aplica|60|PROPIETARIO
+10092|Conductor de Taxi|||||60|
+10094|Propietario de Taxi|||||72|
+10102|Independiente Informal|||||0|
+10111|Propietario de Taxi|||||120|
+10112|Propietario de Taxi|||||21|
+10116|Conductor de Taxi|CONSTRUCCION||||72|
+10118|Propietario de Taxi|||||60|
+10122|Propietario de Taxi||SI|SI|propietario/conductor|72|PROPIETARIO
+10124|Empleado||SI|SI|no aplica|12|CONDUCTOR
+10134|Empleado|||||0|
+10136|Propietario de Taxi|||||48|
+10139|Empleado|||||0|
+10140|Rentista de Capital|||||0|
+10142|Propietario de Taxi|||||96|
+10149|Conductor de Taxi|||||120|
+10150|Empleado|CIENCIAS SALUD|NO|NO|no aplica|0|CONDUCTOR
+10151|Independiente Informal|CIENCIAS SALUD||||0|
+10152|Conductor de Taxi|CONSTRUCCION|SI|NO|no aplica|120|CONDUCTOR
+10156|Conductor de Taxi|CONSTRUCCION||||96|
+10160|Conductor de Taxi||SI|NO|no aplica|120|CONDUCTOR
+10164|Propietario de Taxi|CIENCIAS SALUD||||60|
+10170|Propietario de Taxi||SI|NO|no aplica|48|CONDUCTOR
+10171|Conductor de Taxi|CONSTRUCCION|SI|NO|no aplica|204|CONDUCTOR
+10173|Conductor de Taxi|CONSTRUCCION||||60|
+10176|Conductor de Taxi|CONSTRUCCION|SI|NO|no aplica|120|CONDUCTOR
+10184|Propietario de Taxi|CONSTRUCCION||||60|
+10185|Propietario de Taxi||SI|NO|no aplica|120|CONDUCTOR
+10189|Empleado|||||0|
+10195|Conductor de Taxi|CONSTRUCCION||||60|
+10198|Empleado|CONSTRUCCION|NO|NO|no aplica|0|CONDUCTOR
+10199|Conductor de Taxi|CONSTRUCCION||||324|
+10206|Empleado|CIENCIAS SALUD||||0|
+10207|Propietario de Taxi|CONSTRUCCION||||360|
+10211|Empleado|CAFETERIAS Y PANADERIAS ||||0|
+10220|Empleado|CONSTRUCCION||||0|
+10221|Propietario de Taxi|||||240|
+10242|Empleado|CIENCIAS SALUD||||60|
+10249|Propietario de Taxi|||||60|
+10371|Empleado|||||60|
+10397|Empleado|CONSTRUCCION|NO|NO|no aplica|0|CONDUCTOR
+10443|Conductor de Taxi|CONSTRUCCION||||36|
+10444|Independiente Informal|CONSTRUCCION||||0|
+10445|Conductor de Taxi|CIENCIAS SALUD||||60|
+10447|Propietario de Taxi|CONSTRUCCION||||288|
+10468|Empleado|||||60|
+10472|Pensionado|CIENCIAS SALUD||||0|
+10473|Independiente Formal|||||0|
+10474|Conductor de Taxi|CONSTRUCCION||||300|
+10477|Propietario de Taxi|CONSTRUCCION||||240|
+10478|Conductor de Taxi|CONSTRUCCION||||16|
+10479|Conductor de Taxi|CONSTRUCCION||||48|
+10480|Conductor de Taxi|||||60|
+10485|Propietario de Taxi|||||72|
+10486|Independiente Informal|DISTRIBUIDOR Y VENTA DE POLLO, CARNES O PESCADO CRUDO EN CANALES|NO|NO|no aplica|0|CONDUCTOR
+10489|Transportador|||||0|
+10491|Transportador|||||0|
+10493|Propietario de Taxi|CONSTRUCCION|SI|NO|no aplica|60|CONDUCTOR
+10494|Conductor de Taxi|CONSTRUCCION||||36|
+10495|Empleado|CONSTRUCCION||||0|
+10495|Empleado|CONSTRUCCION||||9|
+10496|Conductor de Taxi|CONSTRUCCION||||36|
+10502|Independiente Informal|CONSTRUCCION||||0|
+10504|Conductor de Taxi|CONSTRUCCION|SI|NO|no aplica|60|CONDUCTOR
+10505|Empleado|||||0|
+10524|Transportador|||||3|
+10525|Conductor de Taxi|CONSTRUCCION||||12|
+10537|Conductor de Taxi|CONSTRUCCION|SI|NO|no aplica|216|PROPIETARIO
+10538|Conductor de Taxi|||||180|
+10539|Propietario de Taxi|CONSTRUCCION||||60|
+10547|Independiente Formal|||||0|
+10550|Propietario de Taxi|CONSTRUCCION||||120|
+10551|Propietario de Taxi|CONSTRUCCION||||120|
+10555|Rentista de Capital|CONSTRUCCION||||0|
+10556|Conductor de Taxi|CONSTRUCCION||||144|
+10557|Conductor de Taxi|CONSTRUCCION||||72|
+10566|Transportador|||||0|
+10568|Independiente Formal|PIÑATERIAS / PAÑALERAS||NO|no aplica|60|CONDUCTOR
+10572|Empleado||NO|NO|no aplica|0|CONDUCTOR
+10573|Transportador||NO|SI|propietario/conductor|0|PROPIETARIO
+10585|Independiente Formal|||||0|
+10592|Transportador||SI|SI|propietario|36|CONDUCTOR
+10593|Transportador|||||10|
+10594|Transportador|||||0|
+10600|Independiente Formal|||||0|
+10605|Transportador|||||0|
+10607|Transportador|||||120|
+10610|Independiente Informal|||||0|
+10611|Independiente Informal|||||0|
+10612|Transportador|||||84|
+10619|Independiente Formal|||||0|
+10620|Independiente Formal|||||0|
+10621|Independiente Formal|||||0|
+10622|Propietario de Taxi|||||12|
+10624|Independiente Informal|||||0|
+10626|Transportador||SI|SI|propietario|36|CONDUCTOR
+10629|Transportador|||||60|
+10636|Transportador||NO|NO|propietario/conductor|6|PROPIETARIO
+10637|Transportador|||SI||0|
+10638|Transportador||SI|SI|propietario/conductor|3|PROPIETARIO
+10640|Rentista de Capital|CONSTRUCCION||||0|
+10643|Empleado|||||0|
+10651|Independiente Formal||NO|NO|no aplica|84|CONDUCTOR
+10654|Propietario de Taxi||SI|SI|no aplica|156|CONDUCTOR
+10655|Propietario de Taxi||SI|SI|no aplica|156|CONDUCTOR
+10661|Transportador|||||48|
+10663|Independiente Formal||NO|NO|no aplica|60|CONDUCTOR
+10667|Propietario de Taxi||SI|NO|no aplica|120|PROPIETARIO
+10669|Propietario de Taxi||SI|NO|no aplica|24|CONDUCTOR
+10670|Transportador||NO|SI|propietario/conductor|180|PROPIETARIO
+10674|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|60|PROPIETARIO
+10675|Propietario de Taxi|CONSTRUCCION|SI|NO|no aplica|60|CONDUCTOR
+10676|Conductor de Taxi|CONSTRUCCION|SI|NO|no aplica|120|PROPIETARIO
+10677|Propietario de Taxi||SI|NO|no aplica|48|PROPIETARIO
+10678|Independiente Informal||NO|NO|no aplica|120|PROPIETARIO
+10679|Independiente Formal||NO|SI|no aplica|36|CONDUCTOR
+10680|Transportador||NO|SI|propietario/conductor|72|PROPIETARIO
+10681|Independiente Informal|||||156|
+10682|Transportador||NO|SI|propietario|18|CONDUCTOR
+10684|Propietario de Taxi||SI|NO|no aplica|120|PROPIETARIO
+10686|Transportador|BARES Y TABERNAS||||48|
+10691|Independiente Formal||NO|NO|no aplica|17|CONDUCTOR
+10693|Transportador|||||30|
+10694|Transportador||NO|SI|propietario|48|CONDUCTOR
+10695|Propietario de Taxi||SI|SI|no aplica|12|PROPIETARIO
+10700|Conductor de Taxi|CONSTRUCCION|SI|NO|no aplica|120|PROPIETARIO
+10702|Independiente Formal||NO|NO|no aplica|0|CONDUCTOR
+10703|Empleado|BARES Y TABERNAS|NO|NO|no aplica|0|CONDUCTOR
+10704|Conductor de Taxi|CONSTRUCCION|SI|NO|no aplica|120|PROPIETARIO
+10705|Conductor de Taxi||SI|NO|no aplica|24|PROPIETARIO
+10706|Conductor de Taxi|CONSTRUCCION|SI|NO|no aplica|324|CONDUCTOR
+10713|Transportador|||||15|
+10720|Conductor de Taxi||SI|NO|no aplica|120|CONDUCTOR
+10722|Independiente Informal||NO|NO|no aplica|53|CONDUCTOR
+10723|Transportador||NO|SI|propietario/conductor|156|PROPIETARIO
+10730|Transportador||NO|SI|propietario/conductor|36|PROPIETARIO
+10733|Transportador|||||216|
+10734|Transportador|CONSTRUCCION|NO|NO|conductor|0|PROPIETARIO
+10744|Conductor de Taxi|CONSTRUCCION|SI|NO|no aplica|120|PROPIETARIO
+10745|Conductor de Taxi|CONSTRUCCION|SI|NO|no aplica|420|PROPIETARIO
+10746|Conductor de Taxi||SI|NO|no aplica|276|CONDUCTOR
+10749|Transportador||NO|SI|propietario/conductor|20|PROPIETARIO
+10750|Independiente Formal||NO|NO|no aplica|96|CONDUCTOR
+10751|Transportador||NO|SI|propietario/conductor|168|PROPIETARIO
+10752|Transportador||NO|SI|conductor|0|PROPIETARIO
+10753|Transportador|BARES Y TABERNAS|NO|SI|propietario|48|CONDUCTOR
+10754|Empleado||NO|NO|no aplica|0|CONDUCTOR
+10755|Transportador|||||180|
+10758|Independiente Informal|CONSTRUCCION|SI|NO|no aplica|11|CONDUCTOR
+10760|Transportador||NO|SI|propietario/conductor|60|PROPIETARIO
+10762|Transportador||NO|SI|conductor|24|PROPIETARIO
+10767|Independiente Formal|ORNAMENTACION Y METALMECANICA|NO|NO|no aplica|0|CONDUCTOR
+10770|Transportador|||||0|
+10771|Independiente Informal|SECTOR AGRO|NO|SI|propietario|108|CONDUCTOR
+10772|Independiente Informal|RECICLAJE Y CHATARRA||||15|
+10773|Conductor de Taxi|TRANSPORTADOR|SI|NO|no aplica|324|PROPIETARIO
+10777|Independiente Formal|SUPERMERCADOS Y MINIMERCADOS|NO|NO|no aplica|96|CONDUCTOR
+10778|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|36|PROPIETARIO
+10779|Transportador|TRANSPORTADOR|NO|SI|propietario|60|CONDUCTOR
+10780|Independiente Formal||NO|NO|no aplica|0|CONDUCTOR
+10784|Transportador|TRANSPORTADOR|NO|SI|no aplica|24|CONDUCTOR
+10786|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|60|PROPIETARIO
+10787|Independiente Informal|FABRICACIÓN / VENTA DE ACCESORIOS Y REPUESTOS PARA VEHÍCULOS|NO|NO|no aplica|4|PROPIETARIO
+10794|Independiente Formal|TRANSPORTADOR|NO|SI|propietario|72|CONDUCTOR
+10795|Transportador|TRANSPORTADOR||||0|
+10796|Independiente Formal|VENTA DE PRODUCTOS DE VIDRIO|NO|NO|no aplica|32|CONDUCTOR
+10797|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|180|PROPIETARIO
+10800|Transportador||NO|SI|propietario/conductor|24|PROPIETARIO
+10801|Independiente Formal|SECTOR AGRO|NO|NO|no aplica|0|PROPIETARIO
+10802|Propietario de Taxi||SI|NO|no aplica|12|PROPIETARIO
+10803|Propietario de Taxi|CONSTRUCCION|SI|NO|no aplica|60|CONDUCTOR
+10804|Conductor de Taxi|CIENCIAS SALUD|SI|NO|no aplica|120|CONDUCTOR
+10805|Conductor de Taxi|CIENCIAS SALUD|SI|NO|no aplica|120|CONDUCTOR
+10806|Conductor de Taxi|CONSTRUCCION|SI|NO|no aplica|60|PROPIETARIO
+10807|Propietario de Taxi||SI|NO|no aplica|240|PROPIETARIO
+10808|Transportador||NO|SI|no aplica|0|PROPIETARIO
+10830|Transportador|TRANSPORTADOR|NO|SI|propietario|0|CONDUCTOR
+10834|Transportador|TRANSPORTADOR|NO|SI|propietario|36|CONDUCTOR
+10835|Independiente Informal|SUPERMERCADOS Y MINIMERCADOS|NO|NO|no aplica|0|PROPIETARIO
+10836|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|48|PROPIETARIO
+10837|Independiente Formal|FABRICACIÓN / VENTA DE MUEBLES EN MADERA||||96|
+10838|Independiente Formal|DISTRIBUIDOR Y VENTA DE POLLO, CARNES O PESCADO CRUDO EN CANALES|NO|NO|no aplica|96|CONDUCTOR
+10839|Independiente Formal|VENTA DE FRUTAS Y VERDURAS||||0|
+10840|Transportador||NO|SI|propietario/conductor|216|PROPIETARIO
+10841|Independiente Formal|TRANSPORTADOR|NO|NO|no aplica|48|CONDUCTOR
+10843|Independiente Formal|FERRETERIAS|NO|SI|no aplica|36|CONDUCTOR
+10846|Independiente Informal|||||0|
+10847|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|0|PROPIETARIO
+10848|Independiente Informal|VENTA DE FRUTAS Y VERDURAS|NO|NO|no aplica|0|CONDUCTOR
+10852|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|0|PROPIETARIO
+10853|Transportador|TRANSPORTADOR|NO|NO|propietario/conductor|108|PROPIETARIO
+10856|Independiente Informal||NO|NO|no aplica|0|PROPIETARIO
+10858|Propietario de Taxi|||||36|
+10859|Propietario de Taxi||SI|NO|no aplica|168|PROPIETARIO
+10860|Propietario de Taxi||SI|NO|no aplica|12|CONDUCTOR
+10861|Conductor de Taxi||SI|NO|no aplica|240|PROPIETARIO
+10862|Independiente Formal|VENTA DE FRUTAS Y VERDURAS|NO|SI|no aplica|72|CONDUCTOR
+10864|Independiente Informal|ARTICULOS VETERINARIOS|NO|NO|no aplica|0|PROPIETARIO
+10876|Transportador|TRANSPORTADOR|NO|SI|propietario|84|PROPIETARIO
+10878|Transportador|TRANSPORTADOR|NO|SI|propietario|60|CONDUCTOR
+10880|Transportador|TRANSPORTADOR|NO|SI|conductor|24|PROPIETARIO
+10882|Transportador||NO|SI|propietario/conductor|0|PROPIETARIO
+10884|Transportador||SI|SI|propietario|24|CONDUCTOR
+10885|Independiente Informal|VENTA DE FRUTAS Y VERDURAS|NO|SI|propietario|0|CONDUCTOR
+10886|Independiente Informal|FLORISTERIAS|NO|SI|no aplica|24|PROPIETARIO
+10888|Independiente Informal|FABRICACIÓN / VENTA DE MUEBLES EN MADERA|NO|SI|no aplica|28|CONDUCTOR
+10889|Propietario de Taxi|CONSTRUCCION|SI|NO|no aplica|276|PROPIETARIO
+10891|Independiente Informal|RECICLAJE Y CHATARRA|NO|SI|no aplica|24|PROPIETARIO
+10892|Independiente Formal|INGENIERIA|NO|NO|no aplica|0|CONDUCTOR
+10893|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|63|PROPIETARIO
+10898|Conductor de Taxi|CONFECCION EN GENERAL|SI|NO|no aplica|60|PROPIETARIO
+10899|Independiente sector Agro||NO|SI|no aplica|96|PROPIETARIO
+10900|Independiente Formal|DISTRIBUIDOR Y VENTA DE POLLO, CARNES O PESCADO CRUDO EN CANALES|NO|SI|propietario|0|CONDUCTOR
+10901|Transportador||NO|SI|conductor|0|PROPIETARIO
+10902|Independiente Informal||NO|NO|no aplica|0|CONDUCTOR
+10904|Transportador||NO|SI|propietario|108|CONDUCTOR
+10908|Independiente Formal|SUPERMERCADOS Y MINIMERCADOS|NO|SI|no aplica|48|PROPIETARIO
+10909|Propietario de Taxi|CONSTRUCCION|SI|NO|no aplica|276|PROPIETARIO
+10910|Independiente Informal|RECICLAJE Y CHATARRA|NO|NO|no aplica|0|CONDUCTOR
+10911|Transportador||NO|SI|propietario|0|CONDUCTOR
+10912|Transportador||NO|SI|no aplica|24|CONDUCTOR
+10913|Transportador||NO|SI|propietario|60|CONDUCTOR
+10915|Transportador||SI|SI|propietario|48|CONDUCTOR
+10916|Independiente Formal|OTRAS PROFESIONES|NO|SI|no aplica|180|CONDUCTOR
+10917|Independiente Informal|DISTRIBUIDOR Y VENTA DE POLLO, CARNES O PESCADO CRUDO EN CANALES|NO|NO|no aplica|0|CONDUCTOR
+10919|Transportador||SI|SI|conductor|24|PROPIETARIO
+10922|Independiente Formal|TRANSPORTADOR|NO|SI|no aplica|16|CONDUCTOR
+10923|Transportador||SI|SI|conductor|36|PROPIETARIO
+10924|Transportador||SI|SI|propietario/conductor|60|PROPIETARIO
+10926|Transportador||SI|NO|propietario|84|CONDUCTOR
+10927|Transportador||SI|SI|no aplica|24|PROPIETARIO
+10928|Transportador|||||48|
+10931|Transportador|||||5|
+10932|Independiente Formal|RECICLAJE Y CHATARRA|NO|NO|no aplica|24|CONDUCTOR
+10933|Transportador||SI|SI|propietario/conductor|96|PROPIETARIO
+10934|Independiente Formal|CONFECCION EN GENERAL|NO|NO|no aplica|0|CONDUCTOR
+10935|Transportador||SI|||120|PROPIETARIO
+10936|Transportador||SI|SI|conductor|36|PROPIETARIO
+10937|Transportador||SI|SI|propietario|60|CONDUCTOR
+10938|Transportador||SI|SI|propietario/conductor|60|PROPIETARIO
+10940|Independiente Informal||SI|SI|propietario|24|CONDUCTOR
+10941|Transportador||SI|SI|propietario/conductor|36|CONDUCTOR
+10942|Transportador||NO|SI|propietario/conductor|48|PROPIETARIO
+10943|Independiente Formal|FABRICACIÓN / VENTA DE MUEBLES EN MADERA|NO|NO|no aplica|24|CONDUCTOR
+10944|Independiente Informal||NO|NO|no aplica|24|CONDUCTOR
+10946|Transportador||SI|SI|propietario/conductor|120|PROPIETARIO
+10948|Independiente Informal||NO|NO|no aplica|24|PROPIETARIO
+10951|Transportador||SI|SI|conductor|24|PROPIETARIO
+10952|Transportador||SI|SI|propietario/conductor|144|PROPIETARIO
+10953|Transportador||SI|SI|propietario/conductor|120|PROPIETARIO
+10954|Independiente Formal|PRODUCCIÓN ALIMENTOS|NO|NO|no aplica|0|CONDUCTOR
+10955|Independiente Formal|VENTA DE FRUTAS Y VERDURAS|NO|NO|no aplica|36|PROPIETARIO
+10960|Independiente Informal||NO|NO|no aplica|0|PROPIETARIO
+10961|Transportador||NO|SI|propietario|36|PROPIETARIO
+10962|Independiente Informal||NO|NO|no aplica|205|PROPIETARIO
+10963|Independiente Formal|DISTRIBUIDORA DE HUEVOS Y LACTEOS|SI|SI|propietario|24|CONDUCTOR
+10964|Pensionado|OTRAS PROFESIONES|NO|SI|conductor|0|CONDUCTOR
+10965|Transportador||SI|SI|conductor|24|PROPIETARIO
+10966|Independiente sector Agro|SECTOR AGRO|NO|NO|no aplica|48|CONDUCTOR
+10968|Independiente Formal||NO|NO|no aplica|24|CONDUCTOR
+10969|Empleado|OFICIOS VARIOS|NO|SI|conductor|0|CONDUCTOR
+10970|Independiente Formal|FABRICACIÓN / VENTA DE MUEBLES EN MADERA|NO|NO|no aplica|0|PROPIETARIO
+10971|Independiente Formal|OTRAS PROFESIONES|NO|SI|propietario/conductor|0|PROPIETARIO
+10973|Independiente Formal|DISTRIBUIDORA DE HUEVOS Y LACTEOS|NO|NO|no aplica|0|CONDUCTOR
+10974|Independiente Informal|DISTRIBUIDORA DE HUEVOS Y LACTEOS|NO|NO|no aplica|0|PROPIETARIO
+10975|Independiente Formal||NO|NO|no aplica|432|PROPIETARIO
+10977|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|0|PROPIETARIO
+10978|Transportador||NO|NO|propietario/conductor|0|PROPIETARIO
+10979|Transportador|||||0|
+10980|Independiente Formal|DISTRIBUIDOR Y VENTA DE POLLO, CARNES O PESCADO CRUDO EN CANALES|NO|NO|no aplica|252|CONDUCTOR
+10984|Propietario de Taxi||SI|NO|no aplica|48|CONDUCTOR
+10985|Transportador||SI|SI|propietario/conductor|60|PROPIETARIO
+10986|Transportador|TRANSPORTADOR|NO|NO|propietario/conductor|0|PROPIETARIO
+10987|Independiente Formal|OTRAS PROFESIONES|NO|NO|no aplica|336|CONDUCTOR
+10988|Independiente Formal|RECICLAJE Y CHATARRA|NO|SI|conductor|0|PROPIETARIO
+10990|Independiente Informal|VENTA DE FRUTAS Y VERDURAS|NO|NO|no aplica|240|CONDUCTOR
+10992|Transportador||NO|SI|propietario/conductor|0|PROPIETARIO
+10993|Transportador||NO|SI|propietario/conductor|0|PROPIETARIO
+10994|Independiente Formal||NO|NO|no aplica|0|CONDUCTOR
+10995|Independiente Formal|TRANSPORTADOR|NO|SI|propietario/conductor|480|CONDUCTOR
+10996|Independiente Formal|OFICIOS VARIOS|NO|NO|no aplica|48|CONDUCTOR
+10998|Transportador||NO|SI|conductor|0|PROPIETARIO
+10999|Transportador||NO|SI|propietario/conductor|120|CONDUCTOR
+11000|Profesionales Independientes|INGENIERIA|NO|NO|no aplica|72|CONDUCTOR
+11001|Independiente Informal|CONSTRUCCION|NO|NO|no aplica|0|CONDUCTOR
+11002|Transportador||NO|SI|conductor|120|PROPIETARIO
+11003|Independiente Formal||SI|SI|no aplica|5|PROPIETARIO
+11004|Independiente Informal|FABRICACIÓN / VENTA DE MUEBLES EN MADERA|NO|NO|no aplica|0|CONDUCTOR
+11005|Independiente Informal|SUPERMERCADOS Y MINIMERCADOS|NO|NO|no aplica|0|CONDUCTOR
+11006|Empleado||NO|SI|propietario|0|CONDUCTOR
+11007|Transportador|FABRICACIÓN / VENTA DE MUEBLES EN MADERA|NO|SI|conductor|0|CONDUCTOR
+11008|Transportador||NO|SI|propietario/conductor|0|PROPIETARIO
+11009|Independiente Formal|OFICIOS VARIOS|NO|SI|propietario/conductor|0|CONDUCTOR
+11010|Independiente Formal|SUPERMERCADOS Y MINIMERCADOS|NO|NO|no aplica|0|PROPIETARIO
+11012|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|60|PROPIETARIO
+11013|Independiente Informal||NO|NO|no aplica|180|PROPIETARIO
+11016|Transportador||SI|SI|no aplica|0|CONDUCTOR
+11017|Transportador||NO|SI|conductor , conductor|30|PROPIETARIO
+11018|Transportador||NO|SI|propietario|36|CONDUCTOR
+11019|Transportador||NO|SI|propietario/conductor|120|CONDUCTOR
+11020|Transportador|TRANSPORTADOR|SI|SI|conductor|240|PROPIETARIO
+11021|Transportador||NO|SI|propietario/conductor|0|PROPIETARIO
+11022|Transportador|TRANSPORTADOR|NO|SI|conductor|60|CONDUCTOR
+11023|Empleado||NO|SI|conductor|60|CONDUCTOR
+11024|Transportador||SI|SI|no aplica|48|PROPIETARIO
+11025|Empleado||NO|SI|propietario|72|CONDUCTOR
+11026|Transportador||NO|SI|propietario/conductor|48|PROPIETARIO
+11027|Transportador||NO|SI|conductor|60|PROPIETARIO
+11028|Independiente sector Agro|PRODUCCIÓN ALIMENTOS|NO|NO|no aplica , no aplica|36|CONDUCTOR
+11029|Transportador||NO|SI|propietario/conductor|24|CONDUCTOR
+11030|Empleado||NO|SI|conductor|60|CONDUCTOR
+11031|Transportador||NO|SI|conductor|300|CONDUCTOR
+11032|Independiente Informal||NO|NO|no aplica , no aplica|240|CONDUCTOR
+11033|Transportador||SI|SI|propietario/conductor|10|PROPIETARIO
+11036|Transportador||NO|SI|conductor , conductor|0|PROPIETARIO
+11036|Transportador||NO|SI|conductor , conductor|192|PROPIETARIO
+11037|Transportador||NO|SI|propietario/conductor|36|CONDUCTOR
+11038|Independiente Formal||NO|NO|no aplica , no aplica|132|CONDUCTOR
+11040|Transportador||NO|SI|propietario/conductor|24|PROPIETARIO
+11041|Transportador||NO|SI|conductor , conductor|120|PROPIETARIO
+11042|Transportador||NO|SI|propietario , propietario|132|CONDUCTOR
+11043|Transportador||NO|SI|no aplica|180|PROPIETARIO
+11044|Independiente Formal|VENTA DE FRUTAS Y VERDURAS|NO|SI|no aplica|72|CONDUCTOR
+11045|Transportador||NO|SI|conductor , conductor|120|CONDUCTOR
+11046|Transportador||SI|SI|conductor , conductor|84|PROPIETARIO
+11047|Transportador|BARES Y TABERNAS|NO|SI|propietario|48|CONDUCTOR
+11048|Transportador|TRANSPORTADOR|SI|SI|propietario|14|CONDUCTOR
+11049|Transportador||NO|SI|propietario/conductor|288|PROPIETARIO
+11050|Transportador||NO|SI||36|CONDUCTOR
+11051|Transportador|||SI|conductor|84|CONDUCTOR
+11052|Transportador||NO|SI|propietario/conductor , propietario/conductor|36|PROPIETARIO
+11053|Independiente Formal||NO|NO|no aplica , no aplica|24|CONDUCTOR
+11054|Transportador||NO|SI|propietario/conductor|0|PROPIETARIO
+11056|Independiente Formal||NO|NO|conductor , conductor|36|PROPIETARIO
+11057|Transportador||NO|SI|conductor|48|PROPIETARIO
+11058|Transportador|TRANSPORTADOR|NO|SI|conductor|48|CONDUCTOR
+11059|Independiente Informal||NO|NO|no aplica|300|CONDUCTOR
+11060|Independiente Formal||NO|SI|propietario/conductor|360|PROPIETARIO
+11061|Transportador||NO|SI|conductor|72|CONDUCTOR
+11062|Transportador|TRANSPORTADOR|NO|SI|propietario|120|PROPIETARIO
+11063|Transportador||NO|SI|conductor|120|CONDUCTOR
+11064|Transportador|||SI|conductor|72|CONDUCTOR
+11066|Empleado|||SI|propietario/conductor|36|CONDUCTOR
+11068|Independiente Formal||NO|NO|no aplica|120|PROPIETARIO
+11071|Conductor de Taxi||SI|NO|no aplica|36|CONDUCTOR
+11073|Transportador|LITOGRAFIA|NO|SI|conductor|240|PROPIETARIO
+11074|Independiente Informal||NO|NO|no aplica|84|
+11075|Transportador||NO|NO|propietario/conductor|60|PROPIETARIO
+11076|Transportador|TRANSPORTADOR|NO|SI|propietario , propietario|72|CONDUCTOR
+11077|Propietario de Taxi|TRANSPORTADOR|SI|SI|propietario/conductor|24|CONDUCTOR
+11078|Transportador||NO|SI|propietario|36|CONDUCTOR
+11079|Transportador||NO|SI|propietario/conductor , propietario/conductor|96|PROPIETARIO
+11080|Transportador||NO|SI|conductor|120|PROPIETARIO
+11081|Transportador||NO|SI|propietario/conductor|72|CONDUCTOR
+11083|Transportador||NO|NO|conductor|192|PROPIETARIO
+11084|Transportador||NO|SI|propietario/conductor|72|CONDUCTOR
+11085|Transportador|||SI|propietario/conductor|180|PROPIETARIO
+11086|Transportador|||SI|conductor|120|PROPIETARIO
+11087|Independiente Formal||NO|NO|no aplica|36|CONDUCTOR
+11088|Transportador|||NO|propietario/conductor , propietario/conductor|36|PROPIETARIO
+11089|Profesionales Independientes|||NO|no aplica|144|CONDUCTOR
+11090|Transportador||NO|SI|conductor|120|PROPIETARIO
+11091|Independiente Informal||NO|NO|no aplica|120|CONDUCTOR
+11092|Transportador||NO|SI|conductor , conductor|72|CONDUCTOR
+11093|Transportador||NO|SI|conductor|240|CONDUCTOR
+11094|Independiente Formal||NO|NO|no aplica , no aplica|240|PROPIETARIO
+11095|Independiente Formal||NO|SI|no aplica|36|CONDUCTOR
+11096|Independiente Informal|ORNAMENTACION Y METALMECANICA|NO|NO|no aplica|72|PROPIETARIO
+11097|Transportador||NO|SI|conductor|240|CONDUCTOR
+11098|Transportador||NO|SI|conductor|276|PROPIETARIO
+11099|Empleado||NO|SI|conductor , conductor|96|PROPIETARIO
+11100|Independiente Formal|PIÑATERIAS / PAÑALERAS|NO|NO|no aplica|36|CONDUCTOR
+11101|Independiente Formal||NO|NO|no aplica , no aplica|72|CONDUCTOR
+11102|Independiente Formal||NO|NO|no aplica|120|
+11104|Independiente Formal||NO|NO|no aplica|240|PROPIETARIO
+11105|Transportador||NO|SI|conductor|24|PROPIETARIO
+11106|Transportador||NO|SI|conductor , conductor|24|PROPIETARIO
+11107|Independiente sector Agro||NO|NO|no aplica|120|
+11109|Transportador||NO|SI|conductor , conductor|240|PROPIETARIO
+11111|Transportador||NO|SI|no aplica|300|CONDUCTOR
+11112|Transportador||NO|NO|propietario/conductor|240|PROPIETARIO
+11113|Transportador||NO|SI|propietario/conductor|216|CONDUCTOR
+11115|Independiente Formal||NO|SI|propietario|60|PROPIETARIO
+11116|Transportador||NO|SI|propietario|24|CONDUCTOR
+11117|Transportador||NO|SI|conductor|24|CONDUCTOR
+11118|Transportador||NO|SI|conductor|24|PROPIETARIO
+11121|Transportador||NO|SI|conductor|72|CONDUCTOR
+11123|Independiente Formal||NO|SI|conductor|36|CONDUCTOR
+11124|Transportador||NO|SI|propietario/conductor , propietario/conductor|324|PROPIETARIO
+11125|Transportador||NO|SI|propietario|30|PROPIETARIO
+11126|Transportador||NO|SI|conductor|60|PROPIETARIO
+11127|Transportador|||SI|propietario|36|CONDUCTOR
+11128|Transportador||NO|SI|propietario|36|PROPIETARIO
+11129|Transportador||NO|SI|propietario|60|CONDUCTOR
+11130|Transportador||NO|SI|conductor|24|CONDUCTOR
+11131|Independiente Formal|OTRAS PROFESIONES||NO|no aplica|240|PROPIETARIO
+11132|Transportador|||SI|propietario/conductor|240|PROPIETARIO
+11133|Independiente Formal||NO|NO|no aplica|240|PROPIETARIO
+11134|Independiente Informal|PRODUCCIÓN ALIMENTOS|NO|NO|no aplica|24|PROPIETARIO
+11135|Transportador||NO|SI|propietario|36|CONDUCTOR
+11136|Independiente Formal|||NO|no aplica|96|PROPIETARIO
+11138|Independiente Informal||NO|NO|no aplica|120|CONDUCTOR
+11139|Transportador|||SI|conductor|120|
+11140|Transportador|||SI|propietario/conductor|48|PROPIETARIO
+11141|Transportador||NO|SI|conductor|24|PROPIETARIO
+11142|Empleado||NO|NO|no aplica|72|CONDUCTOR
+11143|Transportador||NO|SI|propietario/conductor|72|CONDUCTOR
+11145|Transportador||NO|SI|propietario/conductor|72|PROPIETARIO
+11146|Transportador||NO|NO|conductor|24|CONDUCTOR
+11147|Transportador||NO|SI|propietario/conductor|72|PROPIETARIO
+11148|Transportador|||SI|conductor|300|PROPIETARIO
+11149|Transportador||NO|SI|propietario|24|CONDUCTOR
+11150|Independiente Formal||NO|NO|no aplica|36|CONDUCTOR
+11151|Transportador||NO|SI|conductor|108|CONDUCTOR
+11152|Transportador||NO|SI|conductor , conductor|72|PROPIETARIO
+11153|Transportador||NO|SI|conductor|420|PROPIETARIO
+11154|Independiente Formal||NO|NO|no aplica , no aplica|120|PROPIETARIO
+11155|Transportador||NO|SI|conductor|240|PROPIETARIO
+11156|Independiente Formal||NO|NO|no aplica|48|PROPIETARIO
+11157|Transportador||NO|SI|propietario/conductor|192|CONDUCTOR
+11158|Transportador||NO|SI|propietario/conductor|168|CONDUCTOR
+11159|Transportador||NO|SI|propietario/conductor|240|PROPIETARIO
+11160|Conductor de Taxi||SI|NO|no aplica|36|PROPIETARIO
+11161|Transportador||NO|SI|conductor|120|CONDUCTOR
+11162|Transportador||NO|SI|propietario|48|CONDUCTOR
+11163|Transportador||NO|SI|propietario/conductor|36|PROPIETARIO
+11164|Pensionado||NO|SI|conductor , conductor|204|
+11165|Transportador||NO|SI|propietario/conductor|36|CONDUCTOR
+11166|Transportador||NO|SI|propietario/conductor|300|PROPIETARIO
+11167|Transportador||NO|SI|propietario|72|CONDUCTOR
+11168|Transportador||NO|SI|propietario|18|CONDUCTOR
+11169|Transportador||NO|SI|propietario/conductor|120|PROPIETARIO
+11171|Independiente Informal||NO|NO|no aplica|156|PROPIETARIO
+11172|Transportador||NO|SI|propietario/conductor , propietario/conductor|27|CONDUCTOR
+11182|Transportador||SI|SI|conductor|48|CONDUCTOR
+11183|Transportador||NO|SI|conductor , conductor|72|CONDUCTOR
+11184|Independiente Formal||NO|NO|no aplica|48|PROPIETARIO
+11185|Transportador||NO|SI|propietario|96|PROPIETARIO
+11186|Transportador||NO|SI|conductor|240|CONDUCTOR
+11187|Transportador||NO|SI|propietario|72|CONDUCTOR
+11189|Independiente Formal||NO|NO|no aplica , no aplica|120|PROPIETARIO
+11190|Transportador||NO|SI|conductor|132|PROPIETARIO
+11191|Transportador||NO|SI|conductor , conductor|300|PROPIETARIO
+11192|Independiente Informal||NO|SI||324|CONDUCTOR
+11193|Transportador||NO|SI|propietario|24|CONDUCTOR
+11194|Transportador||NO|SI|conductor , conductor|96|CONDUCTOR
+11195|Independiente Formal|TRANSPORTADOR|NO|SI|propietario|72|CONDUCTOR
+11196|Independiente Formal||NO|NO|no aplica|33|PROPIETARIO
+11197|Transportador||NO|SI|conductor|84|PROPIETARIO
+11198|Transportador|||SI|conductor , conductor|240|PROPIETARIO
+11199|Transportador||NO|SI|conductor , conductor|108|CONDUCTOR
+11200|Transportador|||SI|conductor|120|PROPIETARIO
+11201|Independiente Informal||NO|SI|propietario/conductor|180|PROPIETARIO
+11202|Transportador||NO|SI|propietario/conductor|144|PROPIETARIO
+11203|Transportador||NO|SI|conductor , conductor|60|PROPIETARIO
+11204|Transportador||NO|SI|conductor|120|PROPIETARIO
+11205|Transportador|TRANSPORTADOR|NO|SI|conductor|120|PROPIETARIO
+11206|Transportador||NO|SI|conductor|60|PROPIETARIO
+11207|Transportador||NO|SI|propietario/conductor|48|PROPIETARIO
+11208|Transportador||NO|SI|propietario/conductor , propietario/conductor|216|PROPIETARIO
+11209|Transportador||NO|SI|propietario , propietario|36|CONDUCTOR
+11210|Transportador||NO|SI|propietario/conductor|84|CONDUCTOR
+11211|Transportador|TRANSPORTADOR|NO|SI|conductor|552|PROPIETARIO
+11212|Independiente Formal||NO|NO|no aplica , no aplica|60|CONDUCTOR
+11214|Transportador||NO|SI|propietario/conductor|48|CONDUCTOR
+11215|Independiente Formal||NO|NO|no aplica|72|CONDUCTOR
+11216|Transportador||SI|SI|propietario|48|CONDUCTOR
+11217|Transportador||NO|SI|conductor|18|PROPIETARIO
+11218|Independiente Formal||NO|NO|no aplica|36|CONDUCTOR
+11219|Transportador||NO|SI|propietario/conductor|19|
+11221|Transportador||NO|SI|propietario/conductor , propietario/conductor|48|PROPIETARIO
+11222|Transportador||NO|SI|conductor|24|PROPIETARIO
+11223|Transportador||NO|SI|conductor|48|CONDUCTOR
+11224|Transportador||NO||propietario/conductor , propietario/conductor|480|PROPIETARIO
+11225|Independiente Formal||NO|NO|no aplica , no aplica|192|CONDUCTOR
+11226|Transportador||NO|SI|propietario/conductor , propietario/conductor|20|PROPIETARIO
+11228|Transportador||NO|SI|conductor|120|PROPIETARIO
+11230|Transportador||NO|SI|conductor|144|PROPIETARIO
+11231|Transportador|TRANSPORTADOR|NO|SI|propietario|96|CONDUCTOR
+11233|Transportador||NO|SI|conductor|168|PROPIETARIO
+11234|Transportador|TRANSPORTADOR|NO|SI|propietario|18|CONDUCTOR
+11235|Independiente Formal||NO|NO|no aplica|36|CONDUCTOR
+11236|Independiente Informal||NO|SI|propietario/conductor|168|PROPIETARIO
+11237|Transportador||NO|SI|conductor|120|PROPIETARIO
+11238|Transportador||NO|SI|conductor|36|CONDUCTOR
+11239|Rentista de Capital|TRANSPORTADOR|NO|SI|conductor|60|PROPIETARIO
+11240|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|36|PROPIETARIO
+11244|Independiente Formal|FABRICACIÓN / VENTA DE MUEBLES EN MADERA|NO|NO|no aplica , no aplica|36|CONDUCTOR
+11245|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor , propietario/conductor|180|PROPIETARIO
+11246|Independiente Formal|FERRETERIAS|NO|NO|no aplica|240|CONDUCTOR
+11248|Independiente Informal||NO|NO|no aplica|0|CONDUCTOR
+11249|Independiente Informal|INGENIERIA|NO|NO|no aplica|204|CONDUCTOR
+11250|Transportador|TRANSPORTADOR|NO|SI|conductor|24|PROPIETARIO
+11251|Transportador|TRANSPORTADOR|NO|NO|propietario/conductor|36|
+11253|Transportador|TRANSPORTADOR|NO|SI|conductor , conductor|276|PROPIETARIO
+11254|Transportador|TRANSPORTADOR|NO|SI|conductor|216|CONDUCTOR
+11255|Independiente Formal|OTRAS PROFESIONES|NO|NO|no aplica , no aplica|216|CONDUCTOR
+11256|Independiente Informal||NO|SI|no aplica , no aplica|24|PROPIETARIO
+11257|Transportador|TRANSPORTADOR|NO|NO|propietario/conductor|84|PROPIETARIO
+11258|Independiente Formal|FABRICACIÓN / VENTA DE MUEBLES EN MADERA|NO|NO|no aplica|60|CONDUCTOR
+11259|Transportador|TRANSPORTADOR|NO|SI|propietario|24|CONDUCTOR
+11260|Independiente sector Agro|SECTOR AGRO|NO|NO|conductor , conductor|24|CONDUCTOR
+11261|Independiente Informal||NO|NO|no aplica|60|
+11262|Transportador|TRANSPORTADOR|NO|SI|conductor|96|PROPIETARIO
+11263|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|72|PROPIETARIO
+11264|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor , propietario/conductor|264|PROPIETARIO
+11265|Transportador|TRANSPORTADOR|NO|SI|conductor|216|CONDUCTOR
+11266|Independiente Informal|ARTICULOS DE ASEO|NO|NO|no aplica , no aplica|36|CONDUCTOR
+11267|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|60|PROPIETARIO
+11268|Independiente Informal|VENTA DE FRUTAS Y VERDURAS|NO|NO|conductor , conductor|24|CONDUCTOR
+11269|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor , propietario/conductor|18|PROPIETARIO
+11270|Transportador|TRANSPORTADOR|NO|NO|conductor , conductor|60|PROPIETARIO
+11271|Transportador||NO|SI|propietario/conductor|120|CONDUCTOR
+11272|Independiente sector Agro|DISTRIBUIDOR Y VENTA DE POLLO, CARNES O PESCADO CRUDO EN CANALES|NO|NO|no aplica , no aplica|60|CONDUCTOR
+11273|Rentista de Capital|TRANSPORTADOR|NO|SI|propietario|24|CONDUCTOR
+11275|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|240|PROPIETARIO
+11277|Independiente Formal|OTRAS PROFESIONES|NO|NO|no aplica|132|CONDUCTOR
+11278|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|180|CONDUCTOR
+11279|Transportador|CACHARRERIAS Y MISCELANEAS|NO|SI|no aplica|60|CONDUCTOR
+11281|Transportador|TRANSPORTADOR|NO|SI|conductor|144|CONDUCTOR
+11282|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor|24|PROPIETARIO
+11283|Transportador||NO|SI|conductor , conductor|120|PROPIETARIO
+11285|Transportador|TRANSPORTADOR|NO|SI|propietario/conductor , propietario/conductor|360|PROPIETARIO
+11288|Independiente sector Agro|SECTOR AGRO|NO|NO|no aplica , no aplica|120|PROPIETARIO
+11290|Transportador||NO|SI|conductor|24|PROPIETARIO
